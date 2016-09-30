@@ -1,3 +1,8 @@
+/* About displays about text for the app
+ *
+ * Author: Peter Oostema
+ * Date: September 30, 2016
+ */
 package edu.calvin.pno2.lab04;
 
 import android.support.v7.app.AppCompatActivity;
